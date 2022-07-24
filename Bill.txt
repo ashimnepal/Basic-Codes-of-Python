@@ -1,0 +1,4 @@
+Shampoo 100 3 300
+ChauChau 100 60 6000
+WaiWai 12 50 600
+Shampoo Clinic Plus 200 1 200
